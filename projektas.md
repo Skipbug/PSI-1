@@ -3,11 +3,7 @@
 
 # Turinys
 
-* Šitas turėtų tapti Turiniu.
-{:toc}
-
-
-
+Čia turėtų atsirasti turinys
 
 # Įvadas
 
