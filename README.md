@@ -1,11 +1,11 @@
 Skipbug RSS agregatorius
 ========================
 
-Tema: RSS Agregatorius
-Ypatingoji funkcija: Filtravimas
+Tema: RSS Agregatorius  
+Ypatingoji funkcija: Filtravimas  
 
-Darbas: *Projekto dokumentas*
-Stadija: *Procesų aprašas (tai, kas yra)*
+Darbas: *Projekto dokumentas*  
+Stadija: *Procesų aprašas (tai, kas yra)*  
 
 Dokumentą rašom formatuodami su Markdown, esant reikalui pakeisim į ką nors kitą.
 
