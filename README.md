@@ -9,6 +9,11 @@ Stadija: *Procesų aprašas (tai, kas yra)*
 
 Dokumentą rašom formatuodami su Markdown, esant reikalui pakeisim į ką nors kitą.
 
+## Dokumento build'inimas
+
+`make pdf` sukompiliuos PDF dokumentą (reikalingi `pandoc` ir `xelatex` paketai)  
+`make html` sukompiliuos HTML dokumentą (reikalingas `pandoc` paketas)
+
 ## Tutorial'ai
 
 Markdown:

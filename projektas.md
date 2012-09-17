@@ -3,7 +3,7 @@
 
 # Turinys
 
-Čia turėtų atsirasti turinys
+[TOC]
 
 # Įvadas
 
