@@ -25,5 +25,3 @@ Git:
 
 - [http://nathanj.github.com/gitguide/tour.html](http://nathanj.github.com/gitguide/tour.html)
 - [http://learn.github.com/p/intro.html](http://learn.github.com/p/intro.html)
-
-Test iš lauryno.
