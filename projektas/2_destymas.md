@@ -20,4 +20,3 @@ Nagrinėjame internetinius tinklalapius ir portalus savo sistemoje (toliau - Sis
 Šios problemos sprendimui egzistuoja įvairūs RSS srautų filtrai (Yahoo Pipes...), tačiau juose filtravimo užklausas vartotojas turi sudaryti pats. Kai kuriose sistemose, šio tikslo pasiekimui reikalingos ir vidutinės informacinių technologijų žinios.
 
 
-
