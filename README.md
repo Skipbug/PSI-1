@@ -14,6 +14,15 @@ Dokumentą rašom formatuodami su Markdown, esant reikalui pakeisim į ką nors 
 `make pdf` sukompiliuos PDF dokumentą (reikalingi `pandoc` ir `xelatex` paketai)  
 `make html` sukompiliuos HTML dokumentą (reikalingas `pandoc` paketas)
 
+## Dokumento struktūra
+
+Dokumentas yra suskirstytas į sekcijas. Kiekviena mažesnė sekcija (ar didesnė subsekcija) yra suskirstyta į atskirus failus.  
+Kurdami naują failą įsitikinkite, kad failus išdėsčius abėcėlės tvarka failas yra reikiamoje vietoje, nes jie bus sujungiami į vieną abėcėlės tvarka.  
+Subsekcijos pratęsiamos tašku.  
+Pvz.:
+
+- `Dėstymas` pirmoji subsekcija `Verslo proceso aprašas` turės numerį 2.1
+
 ## Tutorial'ai
 
 Markdown:
