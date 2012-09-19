@@ -3,10 +3,10 @@
 - Verslo proceso aprašas
     * Išorinė analizė
     * Vidinė analizė
-		- Statinė struktūra (klasių diagrama)
-		- Užduotys
-		- Užduočių scenarijai
-		- Dinaminė dalykinės srities struktūra (įsivardintų esybių būsenų kitimas)
+        - Statinė struktūra (klasių diagrama)
+        - Užduotys
+        - Užduočių scenarijai
+        - Dinaminė dalykinės srities struktūra (įsivardintų esybių būsenų kitimas)
     * Analizės rezultatai
     * Stiprybės ir silpnybės
     * Grėsmės ir galimybės
