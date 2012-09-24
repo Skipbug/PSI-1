@@ -1,3 +1,16 @@
+# Anotacija
+
+
+Skipbug komanda:
+- Laurynas Ginkus
+    * El.paštas:
+- Džiugas Pocius
+    * El.paštas:
+- Tautvidas Sipavičius (komandos lyderis)
+    * El.paštas:
+- Martynas Šalkauskas
+    * El.paštas
+
 # Įvadas
 
 ## Projekto pavadinimas
