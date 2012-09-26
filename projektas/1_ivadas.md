@@ -1,7 +1,7 @@
 # Anotacija
 
-
 Skipbug komanda:
+
 - Laurynas Ginkus
     * El.paštas:
 - Džiugas Pocius
