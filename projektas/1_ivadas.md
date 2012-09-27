@@ -14,7 +14,7 @@ Skipbug komanda:
 # Įvadas
 
 ## Projekto pavadinimas
-Automatinis aktualaus RSS turinio atrinkimas
+Automatinis aktualaus RSS turinio atrinkimas - "ARTA"
 
 ## Dalykinė sritis
 Prenumeruojamų naujienų skaitymas
@@ -24,13 +24,7 @@ Skaityklės leidžia prenumeruoti kelis RSS šaltinius vienu metu, todėl patogu
 viską skaityti vienoje vietoje.
 
 ## Probleminė sritis
-Greitas aktualių naujienų Vartotojui išrinkimas ir pateikimas
-
-Dažnai RSS šaltiniuose yra publikuojamas turinys, kuris nėra aktualus vienam ar
-kitam skaitytojui, net jei ir bendra RSS šaltinio tema jiems yra aktuali.
-Kartais neaktualiam turiniui atskirti pakanka kelių akimirkų, o kartais - kelių
-ar keliolikos minučių. Prenumeruojant keletą šaltinių kiekvieną mėnesį
-iššvaistoma daug laiko skaitant neaktualų, neįdomų turinį.
+Greitas aktualių naujienų Vartotojui išrinkimas ir pateikimas.
 
 ## Sistemos naudotojai
 - Sistemos administratorius
