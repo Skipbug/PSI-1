@@ -100,7 +100,7 @@
 % the `geometry` package makes for convenient adjusting of margins, which is what
 % you asked about.  Of course it can do much more, even make coffee for you:
 \usepackage{geometry}
-\geometry{verbose,letterpaper,tmargin=3cm,bmargin=3cm,lmargin=3cm,rmargin=3cm}
+\geometry{verbose,letterpaper,tmargin=2cm,bmargin=2cm,lmargin=3cm,rmargin=1.5cm}
 % so if you just keep a copy of this template in the directory you are working in, you
 % can adjust the margins by going into this file and messing with the margins.
 % the syntax is very unforgiving, but permits 3cm and 2.5in and some other things.
@@ -118,7 +118,8 @@
 % If you have a copy you might try it; as it is
 % I will comment it out and supply something more certain to be around:
 
-\setmainfont{Ubuntu}
+\setmainfont{Times New Roman}
+% \setmainfont{Ubuntu}
 
 % Properly one should specify a sanserif font and a monospace font
 % see e.g. the example of Kieran Healy:
@@ -154,7 +155,7 @@
 
 % Paragraph format:
 % Pandoc prefers unindented paragraphs in the European style:
-\setlength{\parindent}{0pt}
+\setlength{\parindent}{1cm}
 %  ... with paragraph breaks marked by a slight lengthening of 
 % the space between paragraphs:
 \setlength{\parskip}{6pt plus 2pt minus 1pt}
@@ -337,13 +338,32 @@ $endif$
     {\centering \large \@author}}				
 \makeatother	
 
-\title{	\normalsize \textsc{I Laboratorinis darbas} 	% Subtitle of the document
-		 	\\[2.0cm]													% 2cm spacing
-			\HRule{0.5pt} \\										% Upper rule
-			\LARGE \textbf{\uppercase{Automatinis aktualaus RSS turinio atrinkimas}}	% Title
-			\HRule{2pt} \\ [0.5cm]								% Lower rule + 0.5cm spacing
-            \normalsize{2012 Rugsėjis} %\today									% Todays date
-		}
+\title{	\vskip 20pt
+        \centerline{\large VILNIAUS UNIVERSITETAS}
+        \bigskip
+        \centerline{\large {MATEMATIKOS IR INFORMATIKOS FAKULTETAS}}
+        \bigskip
+        \centerline{\large {PROGRAMŲ SISTEMŲ KATEDRA}}
+        \vskip 120pt
+        \begin{center}
+        {\bf \LARGE Automatinis aktualaus RSS turinio atrinkimas}
+        \end{center}
+        \bigskip
+        \centerline{\Large \textbf{I Laboratorinis darbas - verslo tikslų ir poreikių specifikacija}}
+        \vskip 120pt
+        \begin{large}
+        \begin{tabbing}
+        {\hskip 5cm}
+            Atliko: \=2 kurso 3 grupės studentai\\
+            \> Laurynas Ginkus\\
+            \> Džiugas Pocius\\
+            \> Tautvidas Sipavičius\\
+            \> Martynas Šalkauskas
+        \end{tabbing}
+        \end{large}
+        \vskip 150pt
+        \centerline{\normalsize {VILNIUS - 2012}}
+	  }
 
 \author{
 		Skipbug\\	
@@ -357,14 +377,16 @@ $endif$
 
 \printtitle									% Print the title data as defined above
   	\vfill
-\printauthor	
+%\printauthor	
 \pagebreak
 
 $if(toc)$
+\thispagestyle{empty}				% Remove page numbering on this page
 \tableofcontents
 \pagebreak
 $endif$
 
+\setcounter{page}{1}
 
 $if(alignment)$
 \begin{$alignment$}
