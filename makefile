@@ -24,6 +24,9 @@ getimg :
 	wget 'https://cacoo.com/diagrams/0n5mP7GBTaEJB0AS-65FC8.png' -O 'projektas/img/isorine_analize.png'
 	wget 'https://cacoo.com/diagrams/0n5mP7GBTaEJB0AS-B0BC4.png' -O 'projektas/img/swot.png'
 
+resizeimg :
+	find projektas/img -iname "*.png" | xargs -l -i mogrify -quality 100 -resize 75% {} {}
+
 build_folder : clean
 	mkdir build
 
