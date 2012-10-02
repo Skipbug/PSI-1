@@ -1,4 +1,6 @@
-﻿Skipbug RSS agregatorius
+﻿**Oi, jūs, progsistai... Tai sakot pavyzdžių ieškot...**
+
+Skipbug RSS agregatorius
 ========================
 
 Tema: RSS Agregatorius  
@@ -6,6 +8,22 @@ Ypatingoji funkcija: Filtravimas
 
 Darbas: *Projekto dokumentas*  
 Stadija: *Procesų aprašas (tai, kas yra)*  
+
+## Konsultacijų grafikas
+
+Mūsų konsultacijos:
+
+- Spalio 11 dieną - 14h, jei bus laiko
+- Spalio 18
+- Spalio 25, kai bus laiko
+
+
+## Atsiskaitymų grafikas
+
+I darbas - 2012-11-08  14:30
+Konsultacija - 2012-11-22
+II darbas - 2012-12-13 2 14:30
+
 
 Dokumentą rašom formatuodami su Markdown, esant reikalui pakeisim į ką nors kitą.
 
