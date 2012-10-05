@@ -257,6 +257,7 @@ $endif$
 
 $if(graphics)$
 \usepackage{graphicx}
+\usepackage{placeins}
 % -- We will generate all images so they have a width \maxwidth. This means
 % -- that they will get their normal width if they fit onto the page, but
 % -- are scaled down if they would overflow the margins.
@@ -265,7 +266,7 @@ $if(graphics)$
 \else\Gin@nat@width\fi}
 \makeatother
 \let\Oldincludegraphics\includegraphics
-\renewcommand{\includegraphics}[1]{\Oldincludegraphics[width=\maxwidth]{#1}}
+\renewcommand{\includegraphics}[1]{\Oldincludegraphics[width=0.75\maxwidth]{#1}}
 $endif$
 
 
