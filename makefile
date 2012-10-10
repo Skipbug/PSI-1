@@ -16,6 +16,7 @@ getimg :
 	wget 'https://cacoo.com/diagrams/0n5mP7GBTaEJB0AS-DE079.png' -O 'projektas/img/uzduotis_paieska_tarp_naujienu.png'
 	wget 'https://cacoo.com/diagrams/0n5mP7GBTaEJB0AS-595B8.png' -O 'projektas/img/uzduotis_pazymeti_pamegtaja.png'
 	wget 'https://cacoo.com/diagrams/0n5mP7GBTaEJB0AS-77606.png' -O 'projektas/img/uzduotis_salinti_vartotoja.png'
+	wget 'https://cacoo.com/diagrams/0n5mP7GBTaEJB0AS-98653.png' -O 'projektas/img/uzduotis_vartotojui_pasinaikinti.png'
 	wget 'https://cacoo.com/diagrams/0n5mP7GBTaEJB0AS-C34DA.png' -O 'projektas/img/uzduotis_admin_keisti_sist_nust.png'
 	wget 'https://cacoo.com/diagrams/0n5mP7GBTaEJB0AS-249A3.png' -O 'projektas/img/uzduotis_atnaujinti_naujienu_saltini.png'
 	wget 'https://cacoo.com/diagrams/0n5mP7GBTaEJB0AS-607D2.png' -O 'projektas/img/dass_saltinis.png'
