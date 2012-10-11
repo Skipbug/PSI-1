@@ -180,6 +180,15 @@ $if(verbatim-in-note)$
 \usepackage{fancyvrb}
 $endif$
 
+% Puslapio numeris desineje
+\RequirePackage{fancyhdr}
+\setlength{\headheight}{0pt}
+\fancyhf{} % clear all header and footers
+\renewcommand{\headrulewidth}{0pt} % remove the header rule
+\rfoot{\small\thepage}
+\pagestyle{fancy}
+
+
 % Lists formatting: 
 % note sure what 'fancy enums' are; something to do with lists, 
 % as the further comment suggests: 
@@ -384,13 +393,13 @@ $endif$
 %\printauthor	
 \pagebreak
 
+\setcounter{page}{1}
+
 $if(toc)$
-\thispagestyle{empty}				% Remove page numbering on this page
 \tableofcontents
 \pagebreak
 $endif$
 
-\setcounter{page}{1}
 
 $if(alignment)$
 \begin{$alignment$}
