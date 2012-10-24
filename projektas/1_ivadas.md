@@ -17,14 +17,14 @@ Skipbug komanda:
     Automatinis aktualaus RSS turinio atrinkimas - **ARTA**
 
 * **Dalykinė sritis:**  
-    Prenumeruojamų naujienų skaitymas
+    Naujienų skaitymas
 
-    Turinys yra prenumeruojamas iš RSS šaltinių pasinaudojant RSS skaitykle.
-    Skaityklės leidžia prenumeruoti kelis RSS šaltinius vienu metu, todėl patogu
-    viską skaityti vienoje vietoje.
+    Naujienos skaitomos tiesiogiai tinklaraščiuose arba iš RSS šaltinių
+    pasinaudojant RSS skaitykle. Skaityklės leidžia prenumeruoti kelis RSS
+    šaltinius vienu metu, todėl patogu viską skaityti vienoje vietoje.
 
 * **Probleminė sritis:**  
-    Greitas aktualių naujienų Vartotojui išrinkimas ir pateikimas.
+    Greitas aktualių naujienų klientui išrinkimas ir pateikimas.
 
 * **Sistemos naudotojai:**  
     - Sistemos administratorius
@@ -32,7 +32,7 @@ Skipbug komanda:
         + Sprendžia iškilusias problemas, susijusias su technine sistemos dalimi
         + **Kompetencija:** aukštasis Informacinių Technologijų srities išsilavinimas
 
-    - Vartotojas (Sistemos lankytojas)
+    - Klientas (Sistemos lankytojas)
 
         + Domisi Sistemoje pateikiamama informacija
         + **Kompetencija:** vidurinės mokyklos informatikos kursas
