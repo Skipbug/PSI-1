@@ -24,6 +24,11 @@ getimg :
 	wget 'https://cacoo.com/diagrams/0n5mP7GBTaEJB0AS-65FC8.png' -O 'projektas/img/isorine_analize.png'
 	wget 'https://cacoo.com/diagrams/0n5mP7GBTaEJB0AS-B0BC4.png' -O 'projektas/img/swot.png'
 	wget 'https://cacoo.com/diagrams/setAgGCws2myV8a4-B05C9.png' -O 'projektas/img/sist_teikiama_naud.png'
+	wget 'https://cacoo.com/diagrams/setAgGCws2myV8a4-50CAF.png' -O 'projektas/img/pren_pop_salt.png'
+	wget 'https://cacoo.com/diagrams/setAgGCws2myV8a4-57610.png' -O 'projektas/img/perz_pop_salt.png'
+	wget 'https://cacoo.com/diagrams/setAgGCws2myV8a4-D2BAE.png' -O 'projektas/img/prideti_filtra.png'
+	wget 'https://cacoo.com/diagrams/setAgGCws2myV8a4-EDAA3.png' -O 'projektas/img/susipaz_su_sist_naud.png'
+	wget 'https://cacoo.com/diagrams/setAgGCws2myV8a4-33DA7.png' -O 'projektas/img/keisti_pasal_filtra.png'
 
 resizeimg :
 	find projektas/img -iname "*.png" | xargs -l -i mogrify -quality 100 -resize 75% {} {}
