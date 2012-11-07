@@ -155,7 +155,13 @@
 
 % Paragraph format:
 % Pandoc prefers unindented paragraphs in the European style:
+
+% Pirma eilutė atitraukiama per 1 cm
 \setlength{\parindent}{1cm}
+
+% Pirma eilutė irgi indentuojama
+\RequirePackage{indentfirst}
+
 %  ... with paragraph breaks marked by a slight lengthening of 
 % the space between paragraphs:
 \setlength{\parskip}{6pt plus 2pt minus 1pt}
@@ -163,6 +169,10 @@
 % Multi-level list enumeration
 \renewcommand{\labelenumi}{\arabic{enumi}.}
 \renewcommand{\labelenumii}{\arabic{enumi}.\arabic{enumii}}
+
+% 1,5 tarpas tarp eilučių
+\RequirePackage{setspace}
+\setstretch{1.44}
 
 % Page format:
 \pagestyle{plain}  

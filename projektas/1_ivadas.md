@@ -3,13 +3,13 @@
 Skipbug komanda:
 
 - Laurynas Ginkus
-    * El.paštas:
+    * El.paštas: laurynas.ginkus@outlook.com
 - Džiugas Pocius
-    * El.paštas:
+    * El.paštas: dziugas.pocius@gmail.com
 - Tautvidas Sipavičius (komandos lyderis)
-    * El.paštas:
+    * El.paštas: tautvidas@tautvidas.com
 - Martynas Šalkauskas
-    * El.paštas
+    * El.paštas: martynasalk@gmail.com
 
 # Įvadas
 
