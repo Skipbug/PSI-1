@@ -224,7 +224,8 @@ $endif$
 % Needless to say infinitely   complicated tables are possible in 
 % LaTeX with suitable packages. We are spared the temptation:
 
-\usepackage{supertabular}
+%\usepackage{supertabular}
+\usepackage{xtab}
 $if(tables)$
 \usepackage{array}
 \usepackage{ctable}
@@ -410,8 +411,10 @@ $endif$
 \setcounter{page}{1}
 
 $if(toc)$
+\setstretch{1}
 \tableofcontents
 \pagebreak
+\setstretch{1.44}
 $endif$
 
 

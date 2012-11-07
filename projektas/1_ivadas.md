@@ -2,6 +2,8 @@
 
 Skipbug komanda:
 
+\setstretch{1}
+
 - Laurynas Ginkus
     * El.paštas: laurynas.ginkus@outlook.com
 - Džiugas Pocius
@@ -10,6 +12,8 @@ Skipbug komanda:
     * El.paštas: tautvidas@tautvidas.com
 - Martynas Šalkauskas
     * El.paštas: martynasalk@gmail.com
+
+\setstretch{1.44}
 
 # Įvadas
 
