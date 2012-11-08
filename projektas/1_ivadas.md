@@ -24,8 +24,7 @@ Skipbug komanda:
     Naujienų skaitymas
 
     Naujienos skaitomos tiesiogiai tinklaraščiuose arba iš RSS šaltinių
-    pasinaudojant RSS skaitykle. Skaityklės leidžia prenumeruoti kelis RSS
-    šaltinius vienu metu, todėl patogu viską skaityti vienoje vietoje.
+    pasinaudojant RSS skaitykle. 
 
 * **Probleminė sritis:**  
     Greitas aktualių naujienų klientui išrinkimas ir pateikimas.
