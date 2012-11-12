@@ -1,3 +1,5 @@
+\newpage
+
 # Terminų žodynėlis
 
 **Autorius:** Asmuo, rašantis naujienas tinklaraščiuose.  

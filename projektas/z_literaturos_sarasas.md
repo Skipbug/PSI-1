@@ -1,3 +1,5 @@
+\newpage
+
 # Literatūros sąrašas
 
 
