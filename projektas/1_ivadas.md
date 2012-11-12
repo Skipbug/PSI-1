@@ -33,11 +33,11 @@ Skipbug komanda:
     - Sistemos administratorius
 
         + Sprendžia iškilusias problemas, susijusias su technine sistemos dalimi
-        + **Kompetencija:** aukštasis Informacinių Technologijų srities išsilavinimas
+        + **Kompetencija:** aukštasis informacinių technologijų srities išsilavinimas
 
     - Klientas (Sistemos lankytojas)
 
-        + Domisi Sistemoje pateikiamama informacija
+        + Domisi sistemoje pateikiamamomis naujienomis, naudojasi sistemos siūlamomis paslaugomis
         + **Kompetencija:** vidurinės mokyklos informatikos kursas
 
 * **Darbo pagrindas:**  
