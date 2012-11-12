@@ -15,4 +15,4 @@
 **RSS procesorius:** RSS Skaityklės dalis, su kuria klientas tiesiogiai nesąveikauja. Nuskaito naujienų sąrašus iš kiekvieno RSS šaltinio bei agreguoja naujienų informaciją.  
 **Skaityklė:** RSS agregatoriaus dalis, su kuria sąveikauja klientas. Klientui parodo RSS procesoriaus agreguotas naujienas bei leidžia valdyti RSS procesoriaus naudojamus RSS šaltinius.  
 **Tikslinė auditorija:** Tam tikra tinklaraštį skaitančios auditorijos dalis, kuriai autoriaus parašyta naujiena yra aktualiausia.  
-**Tinklaraštis:** Internetinis tinklalapis talpinantis konkretaus autoriaus ar autorių grupės straipsnius tam tikromis temomis.  
+**Tinklaraštis:** Internetinis tinklalapis talpinantis konkretaus autoriaus ar autorių grupės naujienas tam tikromis temomis.  
