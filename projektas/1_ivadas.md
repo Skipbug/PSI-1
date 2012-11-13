@@ -4,14 +4,20 @@ Skipbug komanda:
 
 \setstretch{1}
 
-- Laurynas Ginkus
+- Laurynas Ginkus 
     * El.paštas: laurynas.ginkus@outlook.com
-- Džiugas Pocius
+    * Indėlis į darbą 25.1%
+- Džiugas Pocius 
     * El.paštas: dziugas.pocius@gmail.com
-- Tautvidas Sipavičius (komandos lyderis)
+    * Indėlis į darbą 24.9%
+- Tautvidas Sipavičius (komandos lyderis) 
     * El.paštas: tautvidas@tautvidas.com
-- Martynas Šalkauskas
+    * Indėlis į darbą 25.5%
+- Martynas Šalkauskas 
     * El.paštas: martynasalk@gmail.com
+    * Indėlis į darbą 24.5%
+
+Visi komandos nariai prisidėjo prie kiekvienos dokumento dalies rašymo.
 
 \setstretch{1.44}
 
