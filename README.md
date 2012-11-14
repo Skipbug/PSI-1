@@ -1,6 +1,3 @@
-**Oi, jūs, progsistai... Tai sakot pavyzdžių ieškot...**  
-![Nein nein](http://plopper.files.wordpress.com/2011/09/hitler-nein.gif)
-
 Skipbug RSS agregatorius
 ========================
 
